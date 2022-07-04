@@ -28,6 +28,5 @@ c = input()
 print(c)
 
 # 6010
-n = input()
-n = int(n)
+n = int(input())
 print(n)
